@@ -27,3 +27,8 @@ defines
 }
 
 
+links 
+{
+	"winmm"
+}
+
